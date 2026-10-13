@@ -1,0 +1,7 @@
+# Only what the tests need. The notebook itself also needs TensorFlow, which the tests do not import.
+numpy
+pandas
+scikit-learn
+pillow
+opencv-python-headless
+pytest
